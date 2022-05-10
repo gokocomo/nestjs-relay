@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-relay",
+  "name": "@gokocomo/nestjs-relay",
   "version": "4.0.4",
   "description": "A batteries-included toolkit for building Relay-compliant GraphQL APIs with NestJS",
   "keywords": [
@@ -17,7 +17,7 @@
   "author": "Roger Ballard <hello@rogerballard.dev>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rogerballard/nestjs-relay.git"
+    "url": "https://github.com/gokocomo/nestjs-relay.git"
   },
   "license": "MIT",
   "engines": {
